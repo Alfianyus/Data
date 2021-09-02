@@ -1,4 +1,7 @@
 DataLengkap
 -php
+*Laravel
+*Angular
 -mysql
+*phpmyadmin
 -logic
