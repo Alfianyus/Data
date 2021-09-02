@@ -2,3 +2,4 @@ Data
 -Data algoritma
 -Data Logic
 -Rule php programming
+-Target jadi programmer expert secepatnya
