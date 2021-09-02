@@ -1,4 +1,7 @@
 DataLengkap
 -php
+*Laravel
+*CodeIgniter
 -mysql
 -logic
+-Struktur
