@@ -3,5 +3,6 @@ DataLengkap
 *Laravel
 *CodeIgniter
 -mysql
+*phpmyadmin
 -logic
 -Struktur
